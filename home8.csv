@@ -1,0 +1,4 @@
+"Name"	"parents_dir"	"dir_size"	"dirs"	"files"
+"./homework7"	""	4088	"[{'file_edit': 'file_edit'}]"	"[{'main.py': 290, 'README.md': 1519, 'task2.py': 2279}]"
+"file_edit"	"./homework7\"	5582	"[{'__pycache__': '__pycache__'}]"	"[{'generate_name.py': 2271, 'README.md': 180, 'rename_group.py': 2066, 'sorted_dir.py': 1065}]"
+"__pycache__"	"./homework7\file_edit\"	3436	"[{}]"	"[{'generate_name.cpython-311.pyc': 3436}]"
